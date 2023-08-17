@@ -1,3 +1,4 @@
+![logo](https://github.com/md-khizar-ayub/md-khizar-ayub/blob/main/bg%20photo.png)
 <h1 align="center">Hi 👋, I'm Mohammed Khizar Ayub</h1>
 <h3 align="center">A passionate Experienced Java Developer | Spring Boot | SQL from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
